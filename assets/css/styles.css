@@ -1,2 +1,11 @@
 
 /* css */
+body {
+  background-color: #e6f2ff;
+  color: cornflowerblue;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+  color: navy;
+}
